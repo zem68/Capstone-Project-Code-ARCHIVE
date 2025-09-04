@@ -1,0 +1,1 @@
+My contributions to the PSU Learning Factory TA Scheduler. The code contains the fully functioning TA Scheduler, prior to the application being integrated with the User Interface. The scheduling logic within the code is powered by the Google OR-Tools CP-SAT Solver.
